@@ -1,2 +1,2 @@
-# Rabbitgame
-Game where rabbit jumps obstacles  and collects carrots
+# p5.play-boilerplate
+Boiler plate for p5.play
